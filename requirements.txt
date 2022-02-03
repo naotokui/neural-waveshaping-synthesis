@@ -7,5 +7,5 @@ numpy==1.20.1
 pytorch_lightning==1.1.2
 resampy==0.2.2
 scipy==1.6.1
-torch==1.7.1
+torch==1.10.2
 torchcrepe==0.0.12
